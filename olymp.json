@@ -1,0 +1,15 @@
+{
+  "ref": "",
+  "timeZone": {
+    "checkEnabled": true,
+    "validValues": [
+      "Istanbul"
+    ]
+  },
+  "locale": {
+    "checkEnabled": true,
+    "validValues": [
+      "tr"
+    ]
+  }
+}
