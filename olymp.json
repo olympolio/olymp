@@ -1,15 +1,27 @@
 {
-  "ref": "https://redipulink.com/L8GzgmlP/",
-  "timeZone": {
-    "checkEnabled": true,
-    "validValues": [
-      "Istanbul"
-    ]
-  },
-  "locale": {
-    "checkEnabled": true,
-    "validValues": [
-      "tr"
-    ]
-  }
+  "offers": [
+    {
+      "modes": [1],
+      "lc": "tr",
+      "cc": "TR",
+      "tzones": ["Istanbul", "Turkey"],
+      "urls": [
+        "https://redipulink.com/T6HtDV3W/?subId1=olymp2"
+      ]
+    },
+    {
+      "modes": [1],
+      "lc": "pt",
+      "cc": "BR",
+      "tzones": [
+        "Rio_Branco",
+        "Cuiaba",
+        "Manaus",
+        "Bahia",
+        "Sao_Paulo",
+        "Noronha"
+      ],
+      "urls": []
+    }
+  ]
 }
