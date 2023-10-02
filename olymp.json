@@ -1,7 +1,7 @@
 {
   "offers": [
     {
-      "modes": [1],
+      "modes": [1,3],
       "lc": "tr",
       "cc": "TR",
       "tzones": ["Istanbul", "Turkey"],
@@ -10,7 +10,7 @@
       ]
     },
     {
-      "modes": [1],
+      "modes": [1,3],
       "lc": "pt",
       "cc": "BR",
       "tzones": [
